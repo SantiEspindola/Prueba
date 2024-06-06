@@ -1,0 +1,19 @@
+h1 {
+   text-align: center;
+   font-size: 70px;
+   color: darkmagenta;
+}
+
+p {
+    font-family: "Jaro", sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(207, 0, 0);
+    font-size: 45px;
+}
+
+.Cthulhu {
+    color: rgb(1, 54, 1);
+}

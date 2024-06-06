@@ -1,0 +1,14 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: crimson;
+}
+
+h2 {
+    font-size: 40px;
+    color: rgb(166, 96, 72);
+}
+
+p {
+  font-family: "Permanent Marker", cursive;
+}

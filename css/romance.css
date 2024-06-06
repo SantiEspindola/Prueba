@@ -1,0 +1,15 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: tomato;
+}
+
+p {
+    font-family: "Sedan SC", serif;
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(140, 60, 95);
+    font-size: 35px;
+}
